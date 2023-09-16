@@ -11,6 +11,7 @@ import { useLoadingUpdate } from "../context/LoadingContext";
 
 const API_URL = "https://api.themoviedb.org/3";
 const IMAGE_PATH = "https://image.tmdb.org/t/p/w1280";
+const dada = 24;
 
 const HomePage = () => {
   const [movies, setMovies] = useState([]);
