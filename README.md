@@ -13,7 +13,7 @@ Before you begin, make sure you have the following installed on your system:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/ebukathedev/movie-box.git
+git clone [https://github.com/ebukathedev/movie-box.git](https://github.com/Devsheunn/movie-box-hngx-stage-2/tree/master)
 ```
 
 Change into the project directory:
