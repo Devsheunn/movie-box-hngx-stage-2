@@ -8,12 +8,12 @@ Before you begin, make sure you have the following installed on your system:
 
 [Node.js](https://nodejs.org/en): Make sure you have Node.js installed. You can download it [here](https://nodejs.org/en).
 
-## CGetting Started
+## Getting Started
 
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/ebukathedev/movie-box.git](https://github.com/Devsheunn/movie-box-hngx-stage-2/tree/master)
+git clone [https://github.com/Devsheunn/movie-box-hngx-stage-2/tree/master]
 ```
 
 Change into the project directory:
