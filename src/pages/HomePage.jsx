@@ -73,7 +73,7 @@ const HomePage = () => {
     backgroundImage:
       selectedMovie !== undefined
         ? `url(${IMAGE_PATH}${selectedMovie.backdrop_path})`
-        : `url(../src/images/error.jpg)`,
+        : `url(./src/images/error.jpg)`,
   };
   return (
     <main className="font-dmSans">
